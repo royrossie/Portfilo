@@ -1,0 +1,80 @@
+/Users/hades/Downloads/KIST/QSL/xception15000_002_028
+Number of good cases for 1 epoch is:
+5
+Coefficient of good cases for 1 epoch is:
+0.038461538461538464
+
+Number of good cases for 2 epoch is:
+21
+Coefficient of good cases for 2 epoch is:
+0.16153846153846155
+
+Number of good cases for 3 epoch is:
+13
+Coefficient of good cases for 3 epoch is:
+0.1
+
+Number of good cases for 4 epoch is:
+16
+Coefficient of good cases for 4 epoch is:
+0.12307692307692308
+
+Number of good cases for 5 epoch is:
+30
+Coefficient of good cases for 5 epoch is:
+0.23076923076923078
+
+Number of good cases for 6 epoch is:
+25
+Coefficient of good cases for 6 epoch is:
+0.19230769230769232
+
+Number of good cases for 7 epoch is:
+50
+Coefficient of good cases for 7 epoch is:
+0.38461538461538464
+
+Number of good cases for 8 epoch is:
+63
+Coefficient of good cases for 8 epoch is:
+0.4846153846153846
+
+Number of good cases for 1 epoch is:
+0
+Coefficient of good cases for 1 epoch is:
+0.0
+
+Number of good cases for 2 epoch is:
+1
+Coefficient of good cases for 2 epoch is:
+0.007692307692307693
+
+Number of good cases for 3 epoch is:
+1
+Coefficient of good cases for 3 epoch is:
+0.007692307692307693
+
+Number of good cases for 4 epoch is:
+4
+Coefficient of good cases for 4 epoch is:
+0.03076923076923077
+
+Number of good cases for 5 epoch is:
+2
+Coefficient of good cases for 5 epoch is:
+0.015384615384615385
+
+Number of good cases for 6 epoch is:
+6
+Coefficient of good cases for 6 epoch is:
+0.046153846153846156
+
+Number of good cases for 7 epoch is:
+16
+Coefficient of good cases for 7 epoch is:
+0.12307692307692308
+
+Number of good cases for 8 epoch is:
+38
+Coefficient of good cases for 8 epoch is:
+0.2923076923076923

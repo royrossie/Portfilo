@@ -1,0 +1,23 @@
+/Users/hades/Downloads/KIST/QSL/7500_12500_xception_002
+Number of good cases for 1 epoch is:
+29
+Coefficient of good cases for 1 epoch is:
+0.2230769230769231
+
+Number of good cases for 2 epoch is:
+57
+Coefficient of good cases for 2 epoch is:
+0.43846153846153846
+
+Number of good cases for 1 epoch is:
+21
+Coefficient of good cases for 1 epoch is:
+0.16153846153846155
+
+Number of good cases for 2 epoch is:
+24
+Coefficient of good cases for 2 epoch is:
+0.18461538461538463
+
+[0.2230769230769231, 0.43846153846153846]
+[0.16153846153846155, 0.18461538461538463]

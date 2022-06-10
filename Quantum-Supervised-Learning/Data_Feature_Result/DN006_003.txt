@@ -1,0 +1,103 @@
+/Users/hades/Downloads/KIST/QSL/DN_006
+Number of good cases for 1 epoch is:
+33
+Coefficient of good cases for 1 epoch is:
+0.25384615384615383
+
+Number of good cases for 2 epoch is:
+62
+Coefficient of good cases for 2 epoch is:
+0.47692307692307695
+
+Number of good cases for 3 epoch is:
+39
+Coefficient of good cases for 3 epoch is:
+0.3
+
+Number of good cases for 4 epoch is:
+58
+Coefficient of good cases for 4 epoch is:
+0.4461538461538462
+
+Number of good cases for 5 epoch is:
+69
+Coefficient of good cases for 5 epoch is:
+0.5307692307692308
+
+Number of good cases for 6 epoch is:
+57
+Coefficient of good cases for 6 epoch is:
+0.43846153846153846
+
+Number of good cases for 7 epoch is:
+72
+Coefficient of good cases for 7 epoch is:
+0.5538461538461539
+
+Number of good cases for 8 epoch is:
+68
+Coefficient of good cases for 8 epoch is:
+0.5230769230769231
+
+Number of good cases for 9 epoch is:
+68
+Coefficient of good cases for 9 epoch is:
+0.5230769230769231
+
+Number of good cases for 10 epoch is:
+87
+Coefficient of good cases for 10 epoch is:
+0.6692307692307692
+
+Number of good cases for 1 epoch is:
+15
+Coefficient of good cases for 1 epoch is:
+0.11538461538461539
+
+Number of good cases for 2 epoch is:
+13
+Coefficient of good cases for 2 epoch is:
+0.1
+
+Number of good cases for 3 epoch is:
+16
+Coefficient of good cases for 3 epoch is:
+0.12307692307692308
+
+Number of good cases for 4 epoch is:
+19
+Coefficient of good cases for 4 epoch is:
+0.14615384615384616
+
+Number of good cases for 5 epoch is:
+29
+Coefficient of good cases for 5 epoch is:
+0.2230769230769231
+
+Number of good cases for 6 epoch is:
+33
+Coefficient of good cases for 6 epoch is:
+0.25384615384615383
+
+Number of good cases for 7 epoch is:
+38
+Coefficient of good cases for 7 epoch is:
+0.2923076923076923
+
+Number of good cases for 8 epoch is:
+44
+Coefficient of good cases for 8 epoch is:
+0.3384615384615385
+
+Number of good cases for 9 epoch is:
+33
+Coefficient of good cases for 9 epoch is:
+0.25384615384615383
+
+Number of good cases for 10 epoch is:
+40
+Coefficient of good cases for 10 epoch is:
+0.3076923076923077
+
+[0.25384615384615383, 0.47692307692307695, 0.3, 0.4461538461538462, 0.5307692307692308, 0.43846153846153846, 0.5538461538461539, 0.5230769230769231, 0.5230769230769231, 0.6692307692307692]
+[0.11538461538461539, 0.1, 0.12307692307692308, 0.14615384615384616, 0.2230769230769231, 0.25384615384615383, 0.2923076923076923, 0.3384615384615385, 0.25384615384615383, 0.3076923076923077]
